@@ -1,10 +1,10 @@
-# my_ip
+# My Ip
 
-A new Flutter project.
+A Flutter app to show a phone's IP address when using it as a mobile hotspot. 
+
+Troubled by having to visit the long path to the system settings to find the IP every time I wanted to debug a Flutter app wirelessly, this app was born. It reveals the IP on the fly.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
